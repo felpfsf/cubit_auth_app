@@ -18,7 +18,7 @@ class CubitApp extends StatelessWidget {
       create: (context) =>
           AuthCubit(authRepository: authRepository)..checkLoginStatus(),
       child: MaterialApp(
-        title: 'Profit Pulse',
+        title: 'Cubit Auth App',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
