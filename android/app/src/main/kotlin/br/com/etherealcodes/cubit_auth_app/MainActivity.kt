@@ -1,4 +1,4 @@
-package br.com.etherealcodes.cubit_auth_app
+package com.etherealcodes.cubit_auth_app
 
 import io.flutter.embedding.android.FlutterActivity
 
