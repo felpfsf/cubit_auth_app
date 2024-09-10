@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872110992254",
+    "project_id": "cubit-auth-app",
+    "storage_bucket": "cubit-auth-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872110992254:android:3f15e1796314daeeaba12f",
+        "android_client_info": {
+          "package_name": "com.etherealcodes.cubit_auth_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQMgV3xxwLXgl7J0bwW7LnLTvCp0gNIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872110992254:android:483a9fd2a517d317aba12f",
+        "android_client_info": {
+          "package_name": "com.etherealcodes.cubit_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQMgV3xxwLXgl7J0bwW7LnLTvCp0gNIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
